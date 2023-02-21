@@ -1,2 +1,2 @@
-# cpp-LearningNotes1
+# cpp-LearningNotes
 Notes on basic C++ functionality.
